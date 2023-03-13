@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="PIM" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/PIM" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/PIM" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Abertura.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="CadastroFuncionario.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="CadastroUsuario.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ListarUsuarios.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Login.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MenuAdministrativo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MenuDiretor.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ModificaCadastro.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ModuloFinanceiro.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ModuloProfessor.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="RelatorioFinanceiro.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="RelatorioFuncionario.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

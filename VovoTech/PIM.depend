@@ -1,0 +1,423 @@
+# depslib dependency file v1.0
+1668692685 source:c:\users\vitinho\desktop\novo pim\pim\main.c
+	"main.h"
+
+1668693216 c:\users\vitinho\desktop\novo pim\pim\main.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"math.h"
+
+1668691457 source:c:\users\vitinho\desktop\novo pim\pim\teste.c
+	"main.h"
+
+1668694339 source:c:\users\vitinho\desktop\novo pim\pim\abertura.c
+	"main.h"
+
+1668696524 source:c:\users\vitinho\desktop\novo pim\pim\login.c
+	"main.h"
+
+1668696586 source:c:\users\vitinho\desktop\novo pim\pim\menudiretor.c
+	"main.h"
+
+1668696586 source:c:\users\vitinho\desktop\novo pim\pim\menuadministrativo.c
+	"main.h"
+
+1668696586 source:c:\users\vitinho\desktop\novo pim\pim\menufinanceiro.c
+	"main.h"
+
+1668696586 source:c:\users\vitinho\desktop\novo pim\pim\menuprofessor.c
+	"main.h"
+
+1668785485 source:c:\users\vitinho\desktop\novo pim backup\pim\abertura.c
+	"main.h"
+
+1668870784 c:\users\vitinho\desktop\novo pim backup\pim\main.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"math.h"
+
+1668870658 source:c:\users\vitinho\desktop\novo pim backup\pim\login.c
+	"main.h"
+	<windows.h>
+
+1668692685 source:c:\users\vitinho\desktop\novo pim backup\pim\main.c
+	"main.h"
+
+1668708815 source:c:\users\vitinho\desktop\novo pim backup\pim\menuadministrativo.c
+	"main.h"
+
+1668791646 source:c:\users\vitinho\desktop\novo pim backup\pim\menudiretor.c
+	"main.h"
+
+1668708787 source:c:\users\vitinho\desktop\novo pim backup\pim\menufinanceiro.c
+	"main.h"
+
+1668708995 source:c:\users\vitinho\desktop\novo pim backup\pim\menuprofessor.c
+	"main.h"
+
+1668780755 source:c:\users\vitinho\desktop\novo pim backup\pim\cadastrousuario.c
+	"main.h"
+
+1668785687 source:c:\users\vitinho\desktop\novo pim backup\pim\cadastrofuncionario.c
+	"main.h"
+
+1668870860 source:c:\users\vitinho\desktop\novo pim backup\pim\moduloprofessor.c
+	"main.h"
+
+1668785485 source:c:\users\vitinho\desktop\novo pim produção\pim\abertura.c
+	"main.h"
+
+1668877113 c:\users\vitinho\desktop\novo pim produção\pim\main.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"math.h"
+	"conio.h"
+	"windows.h"
+
+1668877113 source:c:\users\vitinho\desktop\novo pim produção\pim\login.c
+	"main.h"
+
+1668692685 source:c:\users\vitinho\desktop\novo pim produção\pim\main.c
+	"main.h"
+
+1668708815 source:c:\users\vitinho\desktop\novo pim produção\pim\menuadministrativo.c
+	"main.h"
+
+1668791646 source:c:\users\vitinho\desktop\novo pim produção\pim\menudiretor.c
+	"main.h"
+
+1668708787 source:c:\users\vitinho\desktop\novo pim produção\pim\menufinanceiro.c
+	"main.h"
+
+1668870860 source:c:\users\vitinho\desktop\novo pim produção\pim\moduloprofessor.c
+	"main.h"
+
+1668871427 source:c:\users\vitinho\desktop\novo pim produção\pim\cadastrousuario.c
+	"main.h"
+
+1668907239 source:c:\users\pauli\desktop\pim100atualizado\pim\abertura.c
+	"main.h"
+
+1668877113 c:\users\pauli\desktop\pim100atualizado\pim\main.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"math.h"
+	"conio.h"
+	"windows.h"
+
+1668951157 source:c:\users\pauli\desktop\pim100atualizado\pim\cadastrousuario.c
+	"main.h"
+
+1668923626 source:c:\users\pauli\desktop\pim100atualizado\pim\login.c
+	"main.h"
+
+1668897072 source:c:\users\pauli\desktop\pim100atualizado\pim\main.c
+	"main.h"
+
+1668708815 source:c:\users\pauli\desktop\pim100atualizado\pim\menuadministrativo.c
+	"main.h"
+
+1668951364 source:c:\users\pauli\desktop\pim100atualizado\pim\menudiretor.c
+	"main.h"
+
+1668708787 source:c:\users\pauli\desktop\pim100atualizado\pim\menufinanceiro.c
+	"main.h"
+
+1668896049 source:c:\users\pauli\desktop\pim100atualizado\pim\moduloprofessor.c
+	"main.h"
+
+1668973344 source:c:\users\pauli\desktop\pim100atualizado\pim\cadastrofuncionario.c
+	"main.h"
+
+1668907239 source:c:\users\vitinho\downloads\pim20112022\abertura.c
+	"main.h"
+
+1668877113 c:\users\vitinho\downloads\pim20112022\main.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"math.h"
+	"conio.h"
+	"windows.h"
+
+1670199403 source:c:\users\vitinho\downloads\pim20112022\cadastrofuncionario.c
+	"main.h"
+
+1670196099 source:c:\users\vitinho\downloads\pim20112022\cadastrousuario.c
+	"main.h"
+
+1670205537 source:c:\users\vitinho\downloads\pim20112022\login.c
+	"main.h"
+
+1668897072 source:c:\users\vitinho\downloads\pim20112022\main.c
+	"main.h"
+
+1668708815 source:c:\users\vitinho\downloads\pim20112022\menuadministrativo.c
+	"main.h"
+
+1670204780 source:c:\users\vitinho\downloads\pim20112022\menudiretor.c
+	"main.h"
+
+1668708787 source:c:\users\vitinho\downloads\pim20112022\menufinanceiro.c
+	"main.h"
+
+1670205494 source:c:\users\vitinho\downloads\pim20112022\moduloprofessor.c
+	"main.h"
+
+1670207802 source:c:\users\vitinho\downloads\pim20112022\modulofinanceiro.c
+	"main.h"
+
+1670116243 source:c:\users\vitinho\downloads\pim20112022\listarusuarios.c
+	"main.h"
+
+1670115969 source:c:\users\vitinho\downloads\pim20112022\modificacadastro.c
+	"main.h"
+
+1669935200 source:c:\users\vitinho\downloads\pim20112022\excluiusuario.c
+	"main.h"
+
+1670199451 source:c:\users\vitinho\downloads\pim20112022\relatoriofuncionario.c
+	"main.h"
+
+1670207719 source:c:\users\vitinho\downloads\pim20112022\relatoriofinanceiro.c
+	"main.h"
+
+1668907239 source:c:\users\vitinho\downloads\pim04122022\abertura.c
+	"main.h"
+
+1668877113 c:\users\vitinho\downloads\pim04122022\main.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"math.h"
+	"conio.h"
+	"windows.h"
+
+1670286546 source:c:\users\vitinho\downloads\pim04122022\cadastrofuncionario.c
+	"main.h"
+
+1670289355 source:c:\users\vitinho\downloads\pim04122022\cadastrousuario.c
+	"main.h"
+
+1670116243 source:c:\users\vitinho\downloads\pim04122022\listarusuarios.c
+	"main.h"
+
+1670284510 source:c:\users\vitinho\downloads\pim04122022\login.c
+	"main.h"
+
+1668897072 source:c:\users\vitinho\downloads\pim04122022\main.c
+	"main.h"
+
+1670285260 source:c:\users\vitinho\downloads\pim04122022\menudiretor.c
+	"main.h"
+
+1670115969 source:c:\users\vitinho\downloads\pim04122022\modificacadastro.c
+	"main.h"
+
+1670207802 source:c:\users\vitinho\downloads\pim04122022\modulofinanceiro.c
+	"main.h"
+
+1670283790 source:c:\users\vitinho\downloads\pim04122022\moduloprofessor.c
+	"main.h"
+
+1670284937 source:c:\users\vitinho\downloads\pim04122022\relatoriofinanceiro.c
+	"main.h"
+
+1670199451 source:c:\users\vitinho\downloads\pim04122022\relatoriofuncionario.c
+	"main.h"
+
+1670288211 source:c:\users\vitinho\downloads\pim04122022\menuadministrativo.c
+	"main.h"
+
+1668907239 source:c:\users\vitinho\desktop\tessteeeeaaeaecaraio\pim final\abertura.c
+	"main.h"
+
+1668877113 c:\users\vitinho\desktop\tessteeeeaaeaecaraio\pim final\main.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"math.h"
+	"conio.h"
+	"windows.h"
+
+1670286546 source:c:\users\vitinho\desktop\tessteeeeaaeaecaraio\pim final\cadastrofuncionario.c
+	"main.h"
+
+1670332471 source:c:\users\vitinho\desktop\tessteeeeaaeaecaraio\pim final\cadastrousuario.c
+	"main.h"
+
+1670116243 source:c:\users\vitinho\desktop\tessteeeeaaeaecaraio\pim final\listarusuarios.c
+	"main.h"
+
+1670284510 source:c:\users\vitinho\desktop\tessteeeeaaeaecaraio\pim final\login.c
+	"main.h"
+
+1668897072 source:c:\users\vitinho\desktop\tessteeeeaaeaecaraio\pim final\main.c
+	"main.h"
+
+1670368952 source:c:\users\vitinho\desktop\tessteeeeaaeaecaraio\pim final\menuadministrativo.c
+	"main.h"
+
+1670115969 source:c:\users\vitinho\desktop\tessteeeeaaeaecaraio\pim final\modificacadastro.c
+	"main.h"
+
+1670207802 source:c:\users\vitinho\desktop\tessteeeeaaeaecaraio\pim final\modulofinanceiro.c
+	"main.h"
+
+1670283790 source:c:\users\vitinho\desktop\tessteeeeaaeaecaraio\pim final\moduloprofessor.c
+	"main.h"
+
+1670284937 source:c:\users\vitinho\desktop\tessteeeeaaeaecaraio\pim final\relatoriofinanceiro.c
+	"main.h"
+
+1670199451 source:c:\users\vitinho\desktop\tessteeeeaaeaecaraio\pim final\relatoriofuncionario.c
+	"main.h"
+
+1670332155 source:c:\users\vitinho\desktop\tessteeeeaaeaecaraio\pim final\menudiretor.c
+	"main.h"
+
+1668907239 source:c:\users\pauli\desktop\pim escovabit\pim final\abertura.c
+	"main.h"
+
+1668877113 c:\users\pauli\desktop\pim escovabit\pim final\main.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"math.h"
+	"conio.h"
+	"windows.h"
+
+1670379354 source:c:\users\pauli\desktop\pim escovabit\pim final\cadastrofuncionario.c
+	"main.h"
+
+1670332471 source:c:\users\pauli\desktop\pim escovabit\pim final\cadastrousuario.c
+	"main.h"
+
+1670116243 source:c:\users\pauli\desktop\pim escovabit\pim final\listarusuarios.c
+	"main.h"
+
+1670284510 source:c:\users\pauli\desktop\pim escovabit\pim final\login.c
+	"main.h"
+
+1668897072 source:c:\users\pauli\desktop\pim escovabit\pim final\main.c
+	"main.h"
+
+1670379578 source:c:\users\pauli\desktop\pim escovabit\pim final\menuadministrativo.c
+	"main.h"
+
+1670378060 source:c:\users\pauli\desktop\pim escovabit\pim final\menudiretor.c
+	"main.h"
+
+1670115969 source:c:\users\pauli\desktop\pim escovabit\pim final\modificacadastro.c
+	"main.h"
+
+1670379820 source:c:\users\pauli\desktop\pim escovabit\pim final\modulofinanceiro.c
+	"main.h"
+
+1670284937 source:c:\users\pauli\desktop\pim escovabit\pim final\relatoriofinanceiro.c
+	"main.h"
+
+1670379071 source:c:\users\pauli\desktop\pim escovabit\pim final\relatoriofuncionario.c
+	"main.h"
+
+1670380620 source:c:\users\pauli\desktop\pim escovabit\pim final\moduloprofessor.c
+	"main.h"
+
+1668907239 source:c:\users\user\onedrive\Área de trabalho\pim escovabit\pim final\abertura.c
+	"main.h"
+
+1668877113 c:\users\user\onedrive\Área de trabalho\pim escovabit\pim final\main.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"math.h"
+	"conio.h"
+	"windows.h"
+
+1670439466 source:c:\users\user\onedrive\Área de trabalho\pim escovabit\pim final\cadastrofuncionario.c
+	"main.h"
+
+1670332471 source:c:\users\user\onedrive\Área de trabalho\pim escovabit\pim final\cadastrousuario.c
+	"main.h"
+
+1670116243 source:c:\users\user\onedrive\Área de trabalho\pim escovabit\pim final\listarusuarios.c
+	"main.h"
+
+1670284510 source:c:\users\user\onedrive\Área de trabalho\pim escovabit\pim final\login.c
+	"main.h"
+
+1668897072 source:c:\users\user\onedrive\Área de trabalho\pim escovabit\pim final\main.c
+	"main.h"
+
+1670378060 source:c:\users\user\onedrive\Área de trabalho\pim escovabit\pim final\menudiretor.c
+	"main.h"
+
+1670115969 source:c:\users\user\onedrive\Área de trabalho\pim escovabit\pim final\modificacadastro.c
+	"main.h"
+
+1670439928 source:c:\users\user\onedrive\Área de trabalho\pim escovabit\pim final\modulofinanceiro.c
+	"main.h"
+
+1670380620 source:c:\users\user\onedrive\Área de trabalho\pim escovabit\pim final\moduloprofessor.c
+	"main.h"
+
+1670284937 source:c:\users\user\onedrive\Área de trabalho\pim escovabit\pim final\relatoriofinanceiro.c
+	"main.h"
+
+1670379071 source:c:\users\user\onedrive\Área de trabalho\pim escovabit\pim final\relatoriofuncionario.c
+	"main.h"
+
+1670440101 source:c:\users\user\onedrive\Área de trabalho\pim escovabit\pim final\menuadministrativo.c
+	"main.h"
+
+1668907239 source:c:\users\user\onedrive\Área de trabalho\pim final\abertura.c
+	"main.h"
+
+1668877113 c:\users\user\onedrive\Área de trabalho\pim final\main.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"math.h"
+	"conio.h"
+	"windows.h"
+
+1670439466 source:c:\users\user\onedrive\Área de trabalho\pim final\cadastrofuncionario.c
+	"main.h"
+
+1670332471 source:c:\users\user\onedrive\Área de trabalho\pim final\cadastrousuario.c
+	"main.h"
+
+1670116243 source:c:\users\user\onedrive\Área de trabalho\pim final\listarusuarios.c
+	"main.h"
+
+1670284510 source:c:\users\user\onedrive\Área de trabalho\pim final\login.c
+	"main.h"
+
+1668897072 source:c:\users\user\onedrive\Área de trabalho\pim final\main.c
+	"main.h"
+
+1670378060 source:c:\users\user\onedrive\Área de trabalho\pim final\menudiretor.c
+	"main.h"
+
+1670115969 source:c:\users\user\onedrive\Área de trabalho\pim final\modificacadastro.c
+	"main.h"
+
+1670439928 source:c:\users\user\onedrive\Área de trabalho\pim final\modulofinanceiro.c
+	"main.h"
+
+1670380620 source:c:\users\user\onedrive\Área de trabalho\pim final\moduloprofessor.c
+	"main.h"
+
+1670284937 source:c:\users\user\onedrive\Área de trabalho\pim final\relatoriofinanceiro.c
+	"main.h"
+
+1670379071 source:c:\users\user\onedrive\Área de trabalho\pim final\relatoriofuncionario.c
+	"main.h"
+
+1670440903 source:c:\users\user\onedrive\Área de trabalho\pim final\menuadministrativo.c
+	"main.h"
+
