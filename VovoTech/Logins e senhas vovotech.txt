@@ -1,0 +1,17 @@
+#Logins e senhas 
+
+#Modulo Professor: 
+Login: jean 
+senha: 123 
+
+#Módulo secretaria 
+Login: paulo 
+senha: 123 
+
+#Módulo Financeiro 
+Login: thierry 
+Senha: 123 
+
+#Modulo Diretor 
+Login: vitor 
+Senha: 123
